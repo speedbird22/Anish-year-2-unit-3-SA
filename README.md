@@ -143,19 +143,6 @@ This flow ensures a seamless and supportive user experience.
 
 ---
 
-## Prototype Screenshots
-
-*(Insert images here after uploading them to GitHub)*
-
-Suggested screenshots:
-
-- Homepage  
-- Mood Tracker  
-- AI Detox Planner  
-- Gratitude Journal  
-- Habit Tracker  
-
----
 
 ## Testing & Feedback
 
