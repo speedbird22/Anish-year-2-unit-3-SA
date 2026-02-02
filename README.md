@@ -77,7 +77,7 @@ A high-fidelity, interactive prototype was developed using Figma. The interface 
 The prototype simulates realistic user journeys without requiring backend development.
 
 👉 **Figma Prototype Link:**  
-*(Insert your link here)*
+https://www.figma.com/proto/VQvBRZWUbTYJFqM0eQs3vf/Untitled?node-id=3-4&t=ZPoQW4QZ3JAb9Esy-1&starting-point-node-id=3%3A4
 
 ### 5. Test
 The prototype was tested with multiple users to evaluate usability, navigation clarity, and feature effectiveness. Structured feedback was collected using a user feedback form.
